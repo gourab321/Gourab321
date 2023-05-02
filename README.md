@@ -3,7 +3,7 @@
 
 <img align="right" alt="code" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-gif-19019116&psig=AOvVaw1TqM5XHY7hqxA4kqwxZmL3&ust=1682892834478000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICzuOyO0P4CFQAAAAAdAAAAABAE">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gourab321&label=Profile%20views&color=0e75b6&style=flat" alt="gourab321" /> </p>
+<p align="left"> <img src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" alt="gourab321" /> </p>
 
 - 🔭 I’m currently working on **Digital library**
 
